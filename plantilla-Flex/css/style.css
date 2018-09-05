@@ -1,0 +1,12 @@
+body 					{ font-family: 'Poppins', sans-serif;}
+h3						{ color: #239AD5 !important; font-weight: 400;}
+
+.subtitulo 				{ color: #B5B2B2; font-size: 15px; }
+.fas  					{ font-size: 25px;}
+
+.btn    				{ border-radius: 50px !important; height: 45px !important; }
+
+.btn-success			{ background-color: #AAE043 !important; border-color: #AAE043 !important;}
+.btn-outline-success 	{ border-color: #AAE043 !important; color: #AAE043 !important;}
+
+.icon     				{ color: #B5B2B2;}
