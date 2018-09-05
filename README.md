@@ -9,4 +9,4 @@
 * Fuente a utilizar: https://fonts.google.com/specimen/Poppins
 * No es obligatorio, no obstante, hacer uso de webpack y sass/scss para el desarrollo sumara puntos.
 * En el README.md adjuntar tiempo que tomo realizar la prueba.
-* Para finalizar hacer push.
+* Para finalizar hacer push y hacer envió del código en un compromido.
